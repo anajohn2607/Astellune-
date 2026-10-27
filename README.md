@@ -40,4 +40,9 @@ Astellune is a private couples' web application designed to help two people stay
 6. Configure the database connection using the example configuration provided.
 7. Open `http://localhost/Astellune/` in your browser.
 
+## Screenshots
+
+### Dashboard
+
+
 
