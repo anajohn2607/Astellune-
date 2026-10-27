@@ -42,7 +42,10 @@ Astellune is a private couples' web application designed to help two people stay
 
 ## Screenshots
 
-### Dashboard
+### Couple-Dashboard
+(couple-dashborad.png)
+(coupledashboard.png)
+
 
 
 
