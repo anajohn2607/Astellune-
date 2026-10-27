@@ -43,8 +43,19 @@ Astellune is a private couples' web application designed to help two people stay
 ## Screenshots
 
 ### Couple-Dashboard
-(couple-dashborad.png)
-(coupledashboard.png)
+
+![Astellune Couple Dashboard](couple-dashborad.png)
+![Astellune Couple Dashboard](coupledashboard.png)
+
+### JoinSpace_Invitation
+![Astellune Join Space Invitation](joinspace-invite.png)
+
+### Chat
+![Astellune Chat](chat.png)
+
+### Memories
+![Astellune Memories](memories.png)
+
 
 
 
